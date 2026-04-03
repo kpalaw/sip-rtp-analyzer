@@ -44,3 +44,12 @@ Usage
 ```bash
 python3 sipStreamToWav.py
 ```
+
+## SIP Transport Support
+
+At present, the tool supports SIP signalling over UDP transport only.
+
+UDP was selected as the initial implementation due to its simplicity and widespread use in SIP-based systems.
+
+Support for TCP (for improved connection stability and NAT traversal) and TLS (for secure SIP signalling) is not yet implemented and will be considered in future enhancements.
+
