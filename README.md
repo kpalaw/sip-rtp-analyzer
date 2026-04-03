@@ -42,7 +42,7 @@ sudo apt install ffmpeg
 
 Usage
 ```bash
-python3 sipStreamToWav.py
+python3 sipStreamToWav.py call_and_rtp.pcap
 ```
 
 ## SIP Transport Support
