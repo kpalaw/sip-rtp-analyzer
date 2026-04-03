@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+# output files
+*.wav
+*.raw
+*.ulaw
+
+# optional (ถ้า pcap ใหญ่)
+# *.pcap
